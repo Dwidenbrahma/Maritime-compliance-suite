@@ -225,8 +225,7 @@ Corrected domain exceptions
 **_Cursor tasks:_** Used tasks.md for planning.
 **_ChatGPT & Claude:_** Used for logic and refinement.
 
-### 6.Summary
-
+### 6. Conclusion
 - The combination of ChatGPT, Copilot, Cursor, and Claude enabled:
 - Full backend implementation: Banking, Compliance, Pooling, Comparison logic.
 - Clean hexagonal architecture: Strict separation of concerns.
